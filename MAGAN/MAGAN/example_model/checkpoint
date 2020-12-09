@@ -1,0 +1,2 @@
+model_checkpoint_path: "MAGAN_model_9999"
+all_model_checkpoint_paths: "MAGAN_model_9999"
